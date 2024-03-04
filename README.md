@@ -1,7 +1,7 @@
 # crud-produtos
 
-API Crud para manipular cadastros de usuários, utilizando Spring Boot com o gerenciador de dependências Maven e documentação de API com a biblioteca springdoc-openapi v2.3.0.
-Com intuito de colocar em prática toda abstração de conhecimento adquiridos nos estudos sobre modelagem e arquitertura de software, utlizando as melhores práticas de desenvolvimento de software. 
+API Crud para manipular cadastros de produtos, utilizando Spring Boot com o gerenciador de dependências Maven e documentação de API com a biblioteca springdoc-openapi v2.3.0.
+Com intuito de colocar em prática toda abstração de conhecimento adquiridos nos estudos sobre modelagem e arquitertura de software, seguindo as boas práticas. 
 
 # java
 
